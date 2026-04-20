@@ -50,7 +50,8 @@ namespace msquic_csharp_impl
                     print.PrintInitofInteropServer();
                     unsafe
                     {
-                        InteropQuicServer.Start();
+                        var interopserver = new InteropQuicServer();
+                        interopserver.Start();
                     }
                     break;
 
