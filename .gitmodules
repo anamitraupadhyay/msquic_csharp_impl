@@ -1,3 +1,6 @@
 [submodule "msquic_csharp_impl/msquic"]
 	path = msquic_csharp_impl/msquic
 	url = https://github.com/microsoft/msquic.git
+[submodule "msquic_csharp_impl/srt"]
+	path = msquic_csharp_impl/srt
+	url = https://github.com/Haivision/srt.git
