@@ -1,0 +1,41 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library"
+		],
+		"files" : 
+		[
+			"src/inc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 79,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "warnings::@02b2f5bbaf5101b826b5",
+	"name" : "warnings",
+	"paths" : 
+	{
+		"build" : "src/inc",
+		"source" : "src/inc"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

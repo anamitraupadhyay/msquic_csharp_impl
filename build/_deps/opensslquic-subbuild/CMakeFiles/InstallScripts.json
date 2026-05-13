@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

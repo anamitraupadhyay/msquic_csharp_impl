@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260511-0912-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.2.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="Lapytop-085"
+	OSRelease="7.0.0-15-generic"
+	OSVersion="#15-Ubuntu SMP PREEMPT_DYNAMIC Wed Apr 22 16:06:43 UTC 2026"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ModelName="Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="8191"
+	TotalPhysicalMemory="23355"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="800.005"
+	>
+	<Testing>
+		<StartDateTime>May 11 14:42 IST</StartDateTime>
+		<StartTestTime>1778490726</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 11 14:42 IST</EndDateTime>
+		<EndTestTime>1778490726</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

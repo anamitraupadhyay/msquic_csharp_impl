@@ -1,0 +1,86 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"src/inc/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 46,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 49,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 53,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "base_link::@02b2f5bbaf5101b826b5",
+	"interfaceCompileDependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "Threads::Threads::@02b2f5bbaf5101b826b5"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "Threads::Threads::@02b2f5bbaf5101b826b5"
+		},
+		{
+			"backtrace" : 2,
+			"fragment" : "dl"
+		},
+		{
+			"backtrace" : 3,
+			"fragment" : "/usr/lib/x86_64-linux-gnu/libatomic.so.1"
+		},
+		{
+			"backtrace" : 4,
+			"fragment" : "/usr/lib/x86_64-linux-gnu/libnuma.so.1"
+		}
+	],
+	"name" : "base_link",
+	"paths" : 
+	{
+		"build" : "src/inc",
+		"source" : "src/inc"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

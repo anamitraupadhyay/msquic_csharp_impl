@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/vadmin/Downloads/msquic_csharp_impl/build/cmake_install.cmake",
+		"/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/cmake_install.cmake",
+		"/home/vadmin/Downloads/msquic_csharp_impl/build/src/inc/cmake_install.cmake",
+		"/home/vadmin/Downloads/msquic_csharp_impl/build/src/generated/cmake_install.cmake",
+		"/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/cmake_install.cmake",
+		"/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/cmake_install.cmake",
+		"/home/vadmin/Downloads/msquic_csharp_impl/build/src/bin/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

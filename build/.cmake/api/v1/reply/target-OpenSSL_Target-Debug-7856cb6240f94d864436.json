@@ -1,0 +1,89 @@
+{
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target"
+		],
+		"files" : 
+		[
+			"submodules/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 338,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"folder" : 
+	{
+		"name" : "helpers"
+	},
+	"id" : "OpenSSL_Target::@0a1a3a85b7387e0bc999",
+	"name" : "OpenSSL_Target",
+	"paths" : 
+	{
+		"build" : "_deps/opensslquic-build",
+		"source" : "submodules"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"isGenerated" : true,
+			"path" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/CMakeFiles/OpenSSL_Target",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/CMakeFiles/OpenSSL_Target.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/lib/libssl.a.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/submodules/quictls/Makefile.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

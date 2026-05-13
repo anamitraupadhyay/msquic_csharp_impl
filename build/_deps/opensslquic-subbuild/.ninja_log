@@ -1,0 +1,21 @@
+# ninja log v7
+3	67	1778490724337136802	opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-mkdir	5af00553eca86d5d
+3	67	1778490724337136802	/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-mkdir	5af00553eca86d5d
+68	129	1778490724398136969	opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-download	ff435987fe0cf9e
+68	129	1778490724398136969	/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-download	ff435987fe0cf9e
+129	190	1778490724459137136	opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-update	234ce0999b04497a
+129	190	1778490724459137136	/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-update	234ce0999b04497a
+190	250	1778490724519137300	opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-patch	4ae690e338948bb2
+190	250	1778490724519137300	/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-patch	4ae690e338948bb2
+250	319	1778490724588137489	opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-configure	188f51db6295f2d2
+250	319	1778490724588137489	/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-configure	188f51db6295f2d2
+319	386	1778490724656137675	opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-build	1fee8bd9ac3bf54c
+319	386	1778490724656137675	/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-build	1fee8bd9ac3bf54c
+387	449	1778490724718137845	opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-install	24ce9f2ec294db12
+387	449	1778490724718137845	/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-install	24ce9f2ec294db12
+450	518	1778490724787138033	opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-test	508d273a014a288c
+450	518	1778490724787138033	/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-test	508d273a014a288c
+519	623	1778490724890138315	CMakeFiles/opensslquic-populate-complete	e832bb1450bb0c8
+519	623	1778490724890138315	opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-done	e832bb1450bb0c8
+519	623	1778490724890138315	/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/CMakeFiles/opensslquic-populate-complete	e832bb1450bb0c8
+519	623	1778490724890138315	/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-done	e832bb1450bb0c8

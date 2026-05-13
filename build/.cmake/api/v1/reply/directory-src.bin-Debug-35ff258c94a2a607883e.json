@@ -1,0 +1,186 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"src/bin/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 277,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 288,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 292,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 295,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/Debug/libmsquic.so.2.6.0",
+				"bin/Debug/libmsquic.so.2"
+			],
+			"targetId" : "msquic::@8acf54fa7910d9dab7c2",
+			"targetIndex" : 3,
+			"targetInstallNamelink" : "skip",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"bin/Debug/libmsquic.so"
+			],
+			"targetId" : "msquic::@8acf54fa7910d9dab7c2",
+			"targetIndex" : 3,
+			"targetInstallNamelink" : "only",
+			"type" : "target"
+		},
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"obj/Debug/libmsquic_platform.a"
+			],
+			"targetId" : "msquic_platform::@fcacbf0dd79acbb6fcc2",
+			"targetIndex" : 4,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "include",
+			"paths" : 
+			[
+				"src/bin/../inc/msquic.h",
+				"src/bin/../inc/msquic.hpp",
+				"src/bin/../inc/msquic_fuzz.h",
+				"src/bin/../inc/msquic_posix.h",
+				"src/bin/../inc/msquic_winkernel.h",
+				"src/bin/../inc/msquic_winuser.h",
+				"src/bin/../inc/msquichelper.h",
+				"src/bin/../inc/msquicp.h",
+				"src/bin/../inc/quic_cert.h",
+				"src/bin/../inc/quic_crypt.h",
+				"src/bin/../inc/quic_datapath.h",
+				"src/bin/../inc/quic_driver_helpers.h",
+				"src/bin/../inc/quic_hashtable.h",
+				"src/bin/../inc/quic_pcp.h",
+				"src/bin/../inc/quic_platform.h",
+				"src/bin/../inc/quic_platform_posix.h",
+				"src/bin/../inc/quic_platform_winkernel.h",
+				"src/bin/../inc/quic_platform_winuser.h",
+				"src/bin/../inc/quic_sal_stub.h",
+				"src/bin/../inc/quic_storage.h",
+				"src/bin/../inc/quic_tls.h",
+				"src/bin/../inc/quic_toeplitz.h",
+				"src/bin/../inc/quic_trace.h",
+				"src/bin/../inc/quic_trace_manifested_etw.h",
+				"src/bin/../inc/quic_var_int.h",
+				"src/bin/../inc/quic_versions.h"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "share/msquic",
+			"paths" : 
+			[
+				"/home/vadmin/Downloads/msquic_csharp_impl/build/msquic-config.cmake"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 4,
+			"component" : "Unspecified",
+			"destination" : "share/msquic",
+			"exportName" : "msquic",
+			"exportTargets" : 
+			[
+				{
+					"id" : "msquic::@8acf54fa7910d9dab7c2",
+					"index" : 3
+				},
+				{
+					"id" : "msquic_platform::@fcacbf0dd79acbb6fcc2",
+					"index" : 4
+				},
+				{
+					"id" : "inc::@02b2f5bbaf5101b826b5",
+					"index" : 5
+				},
+				{
+					"id" : "logging_inc::@cad7c1bc94a6b55ec58c",
+					"index" : 7
+				},
+				{
+					"id" : "warnings::@02b2f5bbaf5101b826b5",
+					"index" : 9
+				},
+				{
+					"id" : "main_binary_link_args::@02b2f5bbaf5101b826b5",
+					"index" : 8
+				},
+				{
+					"id" : "OpenSSL::@6890427a1f51a3e7e1df",
+					"index" : 1
+				},
+				{
+					"id" : "OpenSSLQuic::@0a1a3a85b7387e0bc999",
+					"index" : 2
+				}
+			],
+			"paths" : 
+			[
+				"src/bin/CMakeFiles/Export/8748b72d3c8ce6f4827ac8b99deac313/msquic.cmake"
+			],
+			"type" : "export"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "src/bin",
+		"source" : "src/bin"
+	}
+}

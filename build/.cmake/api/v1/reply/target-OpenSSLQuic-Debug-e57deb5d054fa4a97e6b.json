@@ -1,0 +1,79 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"add_dependencies"
+		],
+		"files" : 
+		[
+			"submodules/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 347,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 357,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 383,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 348,
+				"parent" : 0
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "OpenSSLQuic::@0a1a3a85b7387e0bc999",
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 2,
+			"fragment" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/lib/libssl.a"
+		},
+		{
+			"backtrace" : 3,
+			"fragment" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/lib/libcrypto.a"
+		}
+	],
+	"name" : "OpenSSLQuic",
+	"orderDependencies" : 
+	[
+		{
+			"backtrace" : 4,
+			"id" : "OpenSSL_Target::@0a1a3a85b7387e0bc999"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "_deps/opensslquic-build",
+		"source" : "submodules"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

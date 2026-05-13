@@ -1,0 +1,3 @@
+/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/CMakeFiles/opensslquic-populate.dir
+/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/CMakeFiles/edit_cache.dir
+/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/CMakeFiles/rebuild_cache.dir

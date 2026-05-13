@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/CMakeFiles/opensslquic-populate"
+		},
+		{
+			"file" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/CMakeFiles/opensslquic-populate.rule"
+		},
+		{
+			"file" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/CMakeFiles/opensslquic-populate-complete.rule"
+		},
+		{
+			"file" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-build.rule"
+		},
+		{
+			"file" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-configure.rule"
+		},
+		{
+			"file" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-download.rule"
+		},
+		{
+			"file" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-install.rule"
+		},
+		{
+			"file" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-mkdir.rule"
+		},
+		{
+			"file" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-patch.rule"
+		},
+		{
+			"file" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-test.rule"
+		},
+		{
+			"file" : "/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-subbuild/opensslquic-populate-prefix/src/opensslquic-populate-stamp/opensslquic-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"opensslquic-populate"
+		],
+		"name" : "opensslquic-populate"
+	}
+}

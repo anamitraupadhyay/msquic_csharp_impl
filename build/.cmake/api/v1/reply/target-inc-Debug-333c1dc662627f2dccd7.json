@@ -1,0 +1,66 @@
+{
+	"abstract" : true,
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries"
+		],
+		"files" : 
+		[
+			"src/inc/CMakeLists.txt",
+			"src/generated/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 2
+			}
+		]
+	},
+	"codemodelVersion" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	},
+	"id" : "inc::@02b2f5bbaf5101b826b5",
+	"interfaceCompileDependencies" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "logging_inc::@cad7c1bc94a6b55ec58c"
+		}
+	],
+	"interfaceLinkLibraries" : 
+	[
+		{
+			"backtrace" : 3,
+			"id" : "logging_inc::@cad7c1bc94a6b55ec58c"
+		}
+	],
+	"name" : "inc",
+	"paths" : 
+	{
+		"build" : "src/inc",
+		"source" : "src/inc"
+	},
+	"sources" : [],
+	"type" : "INTERFACE_LIBRARY"
+}

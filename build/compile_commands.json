@@ -1,0 +1,362 @@
+[
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/ack_tracker.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/ack_tracker.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/ack_tracker.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/ack_tracker.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/api.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/api.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/api.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/api.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/binding.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/binding.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/binding.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/binding.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/configuration.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/configuration.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/configuration.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/configuration.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/congestion_control.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/congestion_control.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/congestion_control.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/congestion_control.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/connection.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/connection.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/connection.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/connection.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/connection_pool.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/connection_pool.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/connection_pool.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/connection_pool.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/crypto.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/crypto.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/crypto.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/crypto.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/crypto_tls.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/crypto_tls.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/crypto_tls.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/crypto_tls.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/cubic.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/cubic.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/cubic.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/cubic.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/bbr.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/bbr.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/bbr.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/bbr.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/datagram.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/datagram.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/datagram.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/datagram.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/frame.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/frame.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/frame.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/frame.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/partition.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/partition.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/partition.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/partition.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/library.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/library.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/library.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/library.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/listener.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/listener.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/listener.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/listener.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/lookup.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/lookup.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/lookup.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/lookup.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/loss_detection.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/loss_detection.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/loss_detection.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/loss_detection.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/mtu_discovery.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/mtu_discovery.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/mtu_discovery.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/mtu_discovery.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/operation.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/operation.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/operation.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/operation.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/packet.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/packet.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/packet.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/packet.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/packet_builder.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/packet_builder.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/packet_builder.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/packet_builder.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/packet_space.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/packet_space.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/packet_space.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/packet_space.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/path.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/path.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/path.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/path.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/range.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/range.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/range.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/range.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/recv_buffer.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/recv_buffer.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/recv_buffer.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/recv_buffer.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/registration.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/registration.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/registration.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/registration.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/send.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/send.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/send.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/send.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/send_buffer.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/send_buffer.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/send_buffer.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/send_buffer.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/sent_packet_metadata.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/sent_packet_metadata.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/sent_packet_metadata.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/sent_packet_metadata.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/settings.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/settings.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/settings.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/settings.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/stream.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/stream.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/stream.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/stream.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/stream_recv.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/stream_recv.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/stream_recv.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/stream_recv.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/stream_send.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/stream_send.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/stream_send.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/stream_send.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/stream_set.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/stream_set.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/stream_set.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/stream_set.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/timer_wheel.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/timer_wheel.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/timer_wheel.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/timer_wheel.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/worker.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/worker.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/worker.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/worker.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/version_neg.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/version_neg.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/version_neg.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/version_neg.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core.dir/sliding_window_extremum.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/sliding_window_extremum.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/sliding_window_extremum.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core.dir/sliding_window_extremum.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core_fuzz.dir/frame.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/frame.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/frame.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core_fuzz.dir/frame.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core_fuzz.dir/range.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/range.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/range.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core_fuzz.dir/range.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/core/CMakeFiles/core_fuzz.dir/crypto_tls.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/crypto_tls.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/core/crypto_tls.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/core/CMakeFiles/core_fuzz.dir/crypto_tls.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/crypt.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/crypt.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/crypt.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/crypt.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/hashtable.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/hashtable.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/hashtable.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/hashtable.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/pcp.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/pcp.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/pcp.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/pcp.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/platform_worker.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/platform_worker.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/platform_worker.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/platform_worker.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/toeplitz.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/toeplitz.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/toeplitz.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/toeplitz.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/platform_posix.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/platform_posix.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/platform_posix.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/platform_posix.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/storage_posix.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/storage_posix.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/storage_posix.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/storage_posix.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/cgroup.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/cgroup.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/cgroup.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/cgroup.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/datapath_unix.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/datapath_unix.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/datapath_unix.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/datapath_unix.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/datapath_linux.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/datapath_linux.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/datapath_linux.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/datapath_linux.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/datapath_epoll.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/datapath_epoll.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/datapath_epoll.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/datapath_epoll.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/datapath_xplat.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/datapath_xplat.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/datapath_xplat.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/datapath_xplat.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/datapath_raw_dummy.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/datapath_raw_dummy.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/datapath_raw_dummy.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/datapath_raw_dummy.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/tls_quictls.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/tls_quictls.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/tls_quictls.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/tls_quictls.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/crypt_openssl.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/crypt_openssl.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/crypt_openssl.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/crypt_openssl.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/certificates_posix.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/certificates_posix.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/certificates_posix.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/certificates_posix.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/platform/CMakeFiles/msquic_platform.dir/selfsign_openssl.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/selfsign_openssl.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/platform/selfsign_openssl.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/platform/CMakeFiles/msquic_platform.dir/selfsign_openssl.c.o"
+},
+{
+  "directory": "/home/vadmin/Downloads/msquic_csharp_impl/build",
+  "command": "/usr/bin/gcc -DCX_PLATFORM_LINUX -DHAS_SENDMMSG -DHAS_SYSCONF -DHAS__SC_PHYS_PAGES -DQUIC_ENABLE_CA_CERTIFICATE_FILE_TESTS -DQUIC_EVENTS_STUB -DQUIC_LOGS_STUB -DQUIC_SHARED_EPHEMERAL_WORKAROUND -DQUIC_TEST_OPENSSL_FLAGS=1 -DVER_BUILD_ID=0 -DVER_GIT_HASH=84cb10be27c9479010d519c9b01df6b3fe86401a -DVER_SUFFIX=-private -D_GNU_SOURCE -Dmsquic_EXPORTS -I/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/inc -I/home/vadmin/Downloads/msquic_csharp_impl/build/_deps/opensslquic-build/quictls/include -O0 -fno-omit-frame-pointer -ggdb3 -fPIC -fms-extensions -fPIC -Werror -Wall -Wextra -Wformat=2 -Wno-type-limits -Wno-unknown-pragmas -Wno-multichar -Wno-missing-field-initializers -o src/bin/CMakeFiles/msquic.dir/linux/init.c.o -c /home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/bin/linux/init.c",
+  "file": "/home/vadmin/Downloads/msquic_csharp_impl/msquic_csharp_impl/msquic/src/bin/linux/init.c",
+  "output": "/home/vadmin/Downloads/msquic_csharp_impl/build/src/bin/CMakeFiles/msquic.dir/linux/init.c.o"
+}
+]
