@@ -5,14 +5,14 @@
 void startserver(QUIC_API_TABLE qapi, /*Registration*/HQUIC rhandle) {
 	QUIC_STATUS Status = QUIC_STATUS_SUCCESS;// enum storage for sts checking
 	//the main handler accepts the main var and will start on that
-	if (QUIC_FAILED(Status = MsQuicOpen2(qapi)) {// alternative was succeded too
+	if (QUIC_FAILED(Status = MsQuicOpen2(qapi))) {// alternative was succeded too
 		// used an wrapped macro over the actual func call to auto mitigate to ver 2
 		perror("MsQuicOpen2"); return;
 	}// already those funcs are already set, so the msquic->reg likes of those can be called
 	// now almost all the work is done by alone this func call - thats the issue huge abstraction
 	// step by step: is the call of the macroed func call then immediate is the msquiclibraryload
 	// it is misleading by name, typical microslop. the flow happens this way:
-	if(QUIC_FAILED(Status = qapi->RegistrationOpen(rhandle)){// the handle might be incomplete params i mean, though the current handle is pointing to the
+	if(QUIC_FAILED(Status = qapi->RegistrationOpen(rhandle))){// the handle might be incomplete params i mean, though the current handle is pointing to the
 		// the funct ptrs already inited and its currently is MsQuicRegistrationOpen
 		perror("registran"); return;
 	}
