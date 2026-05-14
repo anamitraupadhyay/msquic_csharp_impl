@@ -2,7 +2,7 @@
 // this specific implementation is very opinionated and rigid and its life cycle needs to be studied
 // the main all var is QUIC_API_TABLE contents: goddamn am not ready for that many abstractions
 
-void startserver(QUIC_API_TABLE qapi, Registration rhandle) {
+void startserver(QUIC_API_TABLE qapi, /*Registration*/HQUIC rhandle) {
 	QUIC_STATUS Status = QUIC_STATUS_SUCCESS;// enum storage for sts checking
 	//the main handler accepts the main var and will start on that
 	if (QUIC_FAILED(Status = MsQuicOpen2(qapi)) {// alternative was succeded too
@@ -12,8 +12,18 @@ void startserver(QUIC_API_TABLE qapi, Registration rhandle) {
 	// now almost all the work is done by alone this func call - thats the issue huge abstraction
 	// step by step: is the call of the macroed func call then immediate is the msquiclibraryload
 	// it is misleading by name, typical microslop. the flow happens this way:
-	if(QUIC_FAILED(Status = qapi->MsQuicRegistrationOpen(rhandle)){// the handle might be incomplete, but also the
+	if(QUIC_FAILED(Status = qapi->RegistrationOpen(rhandle)){// the handle might be incomplete params i mean, though the current handle is pointing to the
+		// the funct ptrs already inited and its currently is MsQuicRegistrationOpen
 		perror("registran"); return;
+	}
+}
+//the another question to be asked is to confirm the function signatures am doing all the steps void and all are required or not
+// as i have seen the weirdest QUIC_MAIN_EXPORT macro added to the sample main calling the funcs
+void serverconfig(QUIC_API_TABLE qapi, HQUIC config){
+	// the server configuration maybe name and all the registrations
+	QUIC_STATUS status = QUIC_STATUS_SUCCESS;
+	if(QUIC_FAILED(status = qapi->ConfigurationOpen(config))){
+		// similar case as in registrationopen the func will overtake this and do and the inderlying might change
 	}
 }
 
@@ -29,5 +39,5 @@ int main(){
 	//while(1)}
 		// what live here ok maybe not while loop its just async firebacks of the tagged union
 	//} is main even required? since the model is async theres high chance it may not
-
+	serverconfig(qapi, config);
 }
